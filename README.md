@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
     - QQ: 1593510417
     - Email: lnkkerst@outlook.com
-    - twitter: lnkkerst1
+    - twitter: [lnkkerst1](https://twitter.com/lnkkerst1)
 - 😄 Fun fact: My major has nothing to do with programming.
 
 ![lnkkerst's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnkkerst&count_private=true&show_icons=true)
