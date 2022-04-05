@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying in SDU.
+- 🌱 I’m currently learning Vue.js, Java and Algorithms.
+- 🤔 I’m looking for help with changing the major.
+- 📫 How to reach me:
+    - QQ: 1593510417
+    - Email: lnkkerst@outlook.com
+    - twitter: lnkkerst1
+- 😄 Fun fact: My major has nothing to do with programming.
+
+![lnkkerst's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnkkerst&count_private=true&show_icons=true)
