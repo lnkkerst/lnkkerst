@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Fun fact: My major has nothing to do with programming.
 
 ![lnkkerst's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnkkerst&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnkkerst&layout=compact)
