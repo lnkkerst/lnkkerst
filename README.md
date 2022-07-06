@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying in SDU.
-- 🌱 I’m currently learning Vue.js, Java and Algorithms.
+- 🌱 I’m currently learning Vue.js, Rust and Algorithms.
 - 🤔 I’m looking for help with changing the major.
 - 📫 How to reach me:
     - QQ: 1593510417
