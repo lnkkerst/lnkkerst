@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with changing the major.
 - 📫 How to reach me:
     - QQ: 1593510417
-    - Email: lnkkerst@outlook.com
+    - Email: lnkkerst04@gmail.com
     - twitter: [lnkkerst1](https://twitter.com/lnkkerst1)
 - 😄 Fun fact: My major has nothing to do with programming.
 
