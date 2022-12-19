@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ![lnkkerst's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnkkerst&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnkkerst&layout=compact)
+
+![cr](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lnkkerst&padding=16&labels=true&legend=true&tooltip=true&max-labels=72&branding=false&show-other-skills=true)
