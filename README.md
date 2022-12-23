@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/lnkkerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lnkkerst" height="30" width="40" /></a>
 <a href="https://kaggle.com/lnkkerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lnkkerst" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/lnkkerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lnkkerst" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lnkkerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lnkkerst" height="30" width="40" /></a>
+<a href="https://leetcode.cn/u/lnkkerst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lnkkerst" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
