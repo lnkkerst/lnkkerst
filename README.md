@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm lnkkerst</h1>
-<h3 align="center">A student from Shandong University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnkkerst&label=Profile%20views&color=0e75b6&style=flat" alt="lnkkerst" /> </p>
 
@@ -27,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lnkkerst&count_private=true&show_icons=true" alt="lnkkerst" /></p>
 
 <p><img align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lnkkerst&padding=16&labels=true&legend=true&tooltip=true&max-labels=72&branding=false&show-other-skills=true" alt="lnkkerst" /></p>
-
