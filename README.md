@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnkkerst&label=Profile%20views&color=0e75b6&style=flat" alt="lnkkerst" /> </p>
 
-- 🌱 I’m currently learning **Vue.js, Rust, Algorithm etc.**
+- 🌱 I’m currently learning **Rust, Algorithms etc.**
 
 - 📝 I regularly write articles on [https://blog.lnkkerst.me/](https://blog.lnkkerst.me/)
 
