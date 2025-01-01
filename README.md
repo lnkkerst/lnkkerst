@@ -19,6 +19,6 @@
 <a href="https://kaggle.com/lnkkerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lnkkerst" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.lnkkerst.me/api/top-langs?username=lnkkerst&show_icons=true&layout=compact&langs_count=12&exclude_repo=onlinetek-xls-web-train-2022-materials,obsidian-notes-vault,lnkkerst.github.io,etc-portage,onlinetek-2022,ChatGPT-Next-Web" alt="lnkkerst" /></p>
+<p><img align="left" src="https://github-readme-stats.lnkkerst.me/api/top-langs?username=lnkkerst&show_icons=true&layout=compact&langs_count=12&exclude_repo=onlinetek-xls-web-train-2022-materials,obsidian-notes-vault,lnkkerst.github.io,etc-portage,onlinetek-2022,ChatGPT-Next-Web,server-configuration-files" alt="lnkkerst" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.lnkkerst.me/api?username=lnkkerst&count_private=true&show_icons=true" alt="lnkkerst" /></p>
