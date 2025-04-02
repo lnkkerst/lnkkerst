@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lnkkerst1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lnkkerst1" height="30" width="40" /></a>
+<a href="https://twitter.com/lnkkerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lnkkerst1" height="30" width="40" /></a>
 <a href="https://t.me/lnkkerst" target="blank"><img align="center" src="https://api.iconify.design/logos:telegram.svg" alt="lnkkerst" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/lnkkerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lnkkerst" height="30" width="40" /></a>
 <a href="https://leetcode.cn/u/lnkkerst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lnkkerst" height="30" width="40" /></a>
